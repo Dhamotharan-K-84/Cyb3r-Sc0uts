@@ -47,8 +47,8 @@ We specialize in uncovering vulnerabilities, breaking boundaries, and scoring fl
 
 | Alias                  | Role                        |
 |------------------------|-----------------------------|
-| [Dhamotharan](https://github.com/Dhamotharan-K-84)            | Team Lead – Web & Reversing |
-| [Ashraf Ali](https://github.com/ashrafali005)             | Crypto & Stego Specialist   |
+| [Dhamotharan](https://github.com/Dhamotharan-K-84)            | Team Lead – Crypto & Stego Specialist |
+| [Ashraf Ali](https://github.com/ashrafali005)             |  Web & Reversing  |
 | [Ganish](https://github.com/Ganish-2005)       | Binary / Pwn Expert        |
 | [Hariharan](https://github.com/hariharan-km)     | Forensics & OSINT          |
 | PacketYeager     | Recon & Network Analyst    |
@@ -63,7 +63,7 @@ We specialize in uncovering vulnerabilities, breaking boundaries, and scoring fl
 |-------------------|--------------|
 | EthicSecur CTF    | Top 5        |
 | GFG-KSRIET CTF    | Top 10       |
-| ShaktiCTF 2025    | Active       |
+| Coming Soon    | Active       |
 
 > 🚩 Flag Motto: `FLAG{w3_ar3_th3_cyb3r_sc0uts}`
 
