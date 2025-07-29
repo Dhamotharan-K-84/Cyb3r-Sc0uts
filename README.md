@@ -63,7 +63,7 @@ We specialize in uncovering vulnerabilities, breaking boundaries, and scoring fl
 |-------------------|--------------|
 | EthicSecur CTF    | Top 5        |
 | GFG-KSRIET CTF    | Top 10       |
-| Coming Soon    | Active       |
+| Coming Soon    | Coming Soon       |
 
 > 🚩 Flag Motto: `FLAG{w3_ar3_th3_cyb3r_sc0uts}`
 
