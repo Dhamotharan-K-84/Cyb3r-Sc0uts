@@ -48,9 +48,9 @@ We specialize in uncovering vulnerabilities, breaking boundaries, and scoring fl
 | Alias                  | Role                        |
 |------------------------|-----------------------------|
 | [Dhamotharan](https://github.com/Dhamotharan-K-84)            | Team Lead – Crypto & Stego Specialist |
-| [Ashraf Ali](https://github.com/ashrafali005)             |  Web & Reversing  |
+| [Ashraf Ali](https://github.com/ashrafali005)             |  Forensics & OSINT  |
 | [Ganish](https://github.com/Ganish-2005)       | Binary / Pwn Expert        |
-| [Hariharan](https://github.com/hariharan-km)     | Forensics & OSINT          |
+| [Hariharan](https://github.com/hariharan-km)     |  Web & Reversing         |
 | PacketYeager     | Recon & Network Analyst    |
 
 > ⚔️ *“One team. One shell. Many flags.”*
